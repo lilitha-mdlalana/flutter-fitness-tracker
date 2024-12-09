@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811450756898",
+    "project_id": "map-thy-quest",
+    "storage_bucket": "map-thy-quest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811450756898:android:0eee9582f31f42e72cbf7b",
+        "android_client_info": {
+          "package_name": "io.fitquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxt2L3PFSKZqtoWAWDehpeOol1kbLkHFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811450756898:android:db3b80bff284449c2cbf7b",
+        "android_client_info": {
+          "package_name": "io.fitquest.fitquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxt2L3PFSKZqtoWAWDehpeOol1kbLkHFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+enum WorkoutType{ run, cycle}
